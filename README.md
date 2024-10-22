@@ -1,7 +1,8 @@
 SQL PROJECT:
+
 A project on pizzahut  sales analysis.
 
-ABOUT ME:
+About me:
 
 Hi, I'm Md Saklain Raza. In this project, 
 
