@@ -2,6 +2,8 @@ SQL PROJECT:
 
 A project on pizzahut  sales analysis.
 
+ABOUT ME:
+
 Hi, I'm Md Saklain Raza. In this project, 
 
 I utilized SQL queries to analyze and solve problems
