@@ -1,5 +1,4 @@
 SQL PROJECT:
-
 A project on pizzahut  sales analysis.
 
 ABOUT ME:
