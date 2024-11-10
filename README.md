@@ -1,4 +1,4 @@
-SQL PROJECT:
+#SQL_PROJECT:
 
 A project on pizzahut  sales analysis.
 
